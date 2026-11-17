@@ -12,7 +12,7 @@ Input Test:
 Test 1 (Zero ): Selected choice 1 (Circle) and entered 0 for the radius. 
 The program output was: The area of the circle is 0.00, confirming that 0 passes the radius < 0 check and calculates right.
 
-Test 2 (Negative Rejection):Selected choice 2 (Rectangle) and entered -5 for length and 4 for width. 
+Test 2 (Negative Rejection):Selected choice 2 (Rectangle) and entered -1 for length and -1 for width. 
 The program output was: Error: Length and width cannot be negative.
 It didn't calculate an area, confirming that the validation guard triggers before the multiplication runs.
 
